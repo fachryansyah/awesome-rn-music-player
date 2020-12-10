@@ -2,7 +2,7 @@
 Sample implementation of music player app with React Native
 
 ## Screenshot
-
+![Demo](https://raw.githubusercontent.com/fachryansyah/awesome-rn-music-player/master/assets/screenshot/1.jpg)
 ## How to install
 ###1. Clone repo
 cloning code to your local computer<br>
